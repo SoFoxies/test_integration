@@ -1,0 +1,109 @@
+@charset "utf-8";
+
+
+
+.hero {
+    background-image: url(../img/W_first_section.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.btn-nav {
+    background-color: #7854F7;
+    color: #fff;
+
+}
+
+.btn-first_section {
+    background-color: #7854F7;
+    color: #fff;
+    border-radius: 10rem;
+}
+
+h1 {
+    color: #272D4E;
+}
+
+h2 {
+    color: #272D4E;
+}
+
+.menu {
+    color: #272D4E;
+}
+
+.img-1 {
+    height: 250px;
+}
+
+.img-2 {
+    height: 250px;
+}
+
+.img-3 {
+    height: 250px;
+}
+
+.second_images {
+    margin-top: 5rem;
+}
+
+.third_images {
+    margin-top: 10rem;
+}
+
+
+a {
+    text-decoration: none;
+    color: #299EF3;
+}
+
+.woo {
+    background-image: url(../img/woo_third_section.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.btn-third_section {
+    background-color: #70C217;
+    color: #fff;
+    border-radius: 10rem;
+}
+
+.asian_third {
+    height: 300px;
+}
+
+.bg-purple {
+    background-color: #7854F7;
+}
+
+.people {
+    height: 180px;
+}
+
+.btn-quatrieme_section {
+    color: #fff;
+    border-color: #fff;
+    margin-left: 30px;
+    border-radius: 10rem;
+}
+
+.bg-purple-light {
+    background-color: #9A7DFF;
+}
+
+.logo_white {
+    height: 37px;
+    margin-top: 150px;
+}
+
+.line {
+    color: #fff ;
+}
+
+.copyright {
+    font-size: 12px;
+}
